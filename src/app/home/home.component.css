@@ -1,0 +1,57 @@
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+.hero-section {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 0 15px;
+}
+
+.hero-content {
+  flex: 1;
+  padding: 20px;
+  max-width: 600px;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  margin-bottom: 20px;
+}
+
+.hero-content .btn {
+  display: inline-block;
+  background-color: #1976d2;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.hero-image img {
+  max-width: 50%;
+  height: auto;
+}
+
+.circular-image {
+  max-width: 10%;
+  height: auto;
+  border-radius: 50%; /* Makes the image circular */
+  transform: translateX(40px); /* Moves the image to the right */
+}
+
+.navbar {
+  margin-right: 50px; /* Adjust the margin to create space between logo and navbar */
+}
+

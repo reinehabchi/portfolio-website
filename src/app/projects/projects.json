@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Portfolio Website",
+      "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here!",
+      "image": "web",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/reinehabchi/portfolio_Reine"
+      }
+    },
+    {
+      "name": "Fruits Website",
+      "desc": "Simple website built using HTML, CSS, JavaScript and AAngular Libraries.",
+      "image": "Fruitshop",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/reinehabchi/angular-project"
+      }
+    },
+    {
+      "name": "COMS website",
+      "desc": "It's a website built for universiy. This website is a course offering management system for instructors.",
+      "image": "coms",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "ATM management system",
+      "desc": "using C# in Microsoft Visual Studio, implemented functionalities such as account management and transaction processing.",
+      "image": "tsfbank",
+      "category": "android",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    }
+  ]
